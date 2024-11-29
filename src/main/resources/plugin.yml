@@ -1,0 +1,14 @@
+name: DuelsPlugin
+version: '1.0-SNAPSHOT'
+main: me.simplyran.duelsPlugin.DuelsPlugin
+api-version: '1.20'
+
+commands:
+  arena:
+    description: create or manage arenas
+    usage: /arena <create|edit> <name>
+  duelkit:
+    description: create or manage kit
+    usage: /duelkit <name>
+  duel:
+    description: send or accept duel

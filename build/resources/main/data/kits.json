@@ -1,0 +1,18 @@
+{
+  "kit1": {
+    "contents": [
+      "DIAMOND",
+      "STONE"
+    ]
+
+  },
+  "kit2": {
+    "contents": [
+      "WATER_BUCKET",
+      "COBBLESTONE"
+    ]
+
+  }
+
+}
+

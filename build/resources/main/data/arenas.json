@@ -1,0 +1,38 @@
+{
+  "arena1": {
+    "spawnpoint1": {
+      "world": "world",
+      "x": 100,
+      "y": 100,
+      "z": 100,
+      "yaw": 10,
+      "pitch": 100
+    },
+    "spawnpoint2": {
+      "world": "world",
+      "x": 150,
+      "y": 150,
+      "z": 150,
+      "yaw": 10,
+      "pitch": 100
+    }
+  },
+  "arena2": {
+    "spawnpoint1": {
+      "world": "world",
+      "x": 100,
+      "y": 100,
+      "z": 100,
+      "yaw": 10,
+      "pitch": 100
+    },
+    "spawnpoint2": {
+      "world": "world",
+      "x": 150,
+      "y": 150,
+      "z": 150,
+      "yaw": 10,
+      "pitch": 100
+    }
+  }
+}
